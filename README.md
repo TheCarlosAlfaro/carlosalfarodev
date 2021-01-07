@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Carlos</h1>
-<p align="center"><a href="https://www.carlosalfaro.dev">Portfolio</a> &bull;  <a href="https://www.linkedin.com/in/carlosalfarodev/">LinkedIn</a>
+<h2 align="center"><a href="https://www.carlosalfaro.dev">Portfolio</a> &bull;  <a href="https://www.linkedin.com/in/carlosalfarodev/">LinkedIn</a>
 
 I'm a freelance Full Stack JavaScript developer.
-</p>
+</h2>
 
 ## About me...
 ```js
