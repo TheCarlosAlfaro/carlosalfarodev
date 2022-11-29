@@ -7,8 +7,7 @@ I'm a Software Developer.
 ## About me...
 ```js
 const carlosalfaro = {
-  pronouns: "he/him",
   code: ["JavaScript", "HTML", "CSS"],
-  tools: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel"],
+  tools: ["React", "Next.js", "Node.js", "Firebase", "Vercel"],
 }
 ```
